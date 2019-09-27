@@ -8,3 +8,5 @@
 Диаграмма IDEF0:
 https://raw.githubusercontent.com/IskenderovaLorena/IskenderovaLorena.github.io/master/%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80.png
 https://raw.githubusercontent.com/IskenderovaLorena/IskenderovaLorena.github.io/master/%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80.png
+ 
+ https://raw.githubusercontent.com/IskenderovaLorena/IskenderovaLorena.github.io/master/%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80.png(jpg))
