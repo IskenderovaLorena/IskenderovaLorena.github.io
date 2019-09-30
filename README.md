@@ -6,3 +6,6 @@
 Лабораторная 1
 
 Диаграмма IDEF0:
+
+
+https://raw.githubusercontent.com/IskenderovaLorena/IskenderovaLorena.github.io/master/2YOEmwtK8fc.jpg
