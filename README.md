@@ -1,20 +1,8 @@
-# IskenderovaLorena.github.io
-Отчет о лабораторных работах
-
-студент группы ИДБ-16-07 Искендерова 
+Студент группы ИДБ-16-07 Искендерова Л.И.
+Лабораторная работа 1
 * Создание IDEF0-диаграмм в RAMUS:
 
-
-Создание IDEF0-диаграммы:
 ![](https://raw.githubusercontent.com/IskenderovaLorena/welcome-to-github/master/%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80.png)
 
 * Диаграмма классов и Текст
-
-
-
-![](http://www.plantuml.com/plantuml/png/fP6nJiCm48Rd-YbEdM2en0CWQCiSAHkpbPWsQXgZYoC6YbHQCQ1M0iJ6miXQYf0Y8E4Lpc_4EIwbEqEIqt__z-VExkP6eYd6gSX7INOkKOv1HaOZN8fMNqQZ0UeYYqzqojBfC35Aj7g8-i8h_PGjRDGOAzoLhdRoYbn5CbV_JapLcG6Z0PF1q42Se8fCeZFXvmqFGERGfXTwfq-gQStVZ-FsfXjikYLLzjhExDJEwOiT5TUBhIlqfdkgQELixasblGDwj5DctwXcSidSsbd-qZttPEVsXcfkLNR1yINGTyEzEevMJcBczpnwddhUHi-QiKiUQGdqqFphblqXT3gmrziN_BWo4BphuOIhK0GiJ8vuFT5LMSpt-0C0)
-
-http://www.plantuml.com/plantuml/png/JP11IWCn68NNpIb-kbBm4BLUm9thC1Fiq7GYoHGN8jGPL8e55NSkx1LgPM2exVGAxx-HVwOWtIJmyTwNHmQXqBwOJgmAuoo_qLvFAB4w1BfJlQ5EnjVUJVFqmbddwMgK5KRrphrtjmSoj1AHeFEfySVeNXqiVRnXXnK_S1bFDFnA-E0P6loWvHalK6CT8ttIWIxbMS8dL_o8LkYENx15GzXtbUzOmIeYXUM_fPJiMjGbBmZldNPE9_WIsF8SpHbXYPQmmMySqSruHYttHffRhaXKDJ-XnbuarQdC7sMfeIJpYJLgOF9KlkWF
-
-
-https://raw.githubusercontent.com/IskenderovaLorena/IskenderovaLorena.github.io/master/%D0%B2%D0%B2%D0%B2.PNG
+![](http://www.plantuml.com/plantuml/png/fP71IiD048RFtQSOSj93mGSGQUeva9ld9LdRq3GhamqUh51RF4WBAbx4YqUljI84DV4LPj_8sQGjlNj8Clpp_NzcTdkvaMYASIhoKP9TI9HZa97H25UYqvVHQ82woE9JdR9qDaoC4XqVKL-sIZzbX46DiS9zwNelhyXL97FrxyHKdHim6Z0P30t42Qh893eJxRpX4SWSF7gZJ_gccjRy_V8spM3JVARAtjYPdTev_J1GSRtOGc7BF515AqUvDvNs7kZ9Jgca3whPk6JRsY6xxDRsOkVsbchkL7R1uINGRsDxTpPQESaJsxFmMzFhBdZMZ5poF4kWn-PFTvu8eTk50_zGyEFAGF2QnnEkGX6mC3dXrKHFPJ5VuHy0)
