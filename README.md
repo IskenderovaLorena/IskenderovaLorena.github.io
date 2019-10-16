@@ -18,7 +18,16 @@
 
 
 Лабораторная 2
+* IDEF0-диаграмма (блок А0):
+![model](https://user-images.githubusercontent.com/55622789/66961689-e37e7200-f077-11e9-8260-236d7dafce96.PNG)
 
-IDEF0 модель
-https://raw.githubusercontent.com/IskenderovaLorena/IskenderovaLorena.github.io/master/IDEF0-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20(%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%20A1%2C%20A2%2C%20A3).PNG
-https://raw.githubusercontent.com/IskenderovaLorena/IskenderovaLorena.github.io/master/IDEF0-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20(%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%20A1%2C%20A2%2C%20A3).PNG
+
+
+* IDEF0-диаграмма (блоки A1, A2, A3)
+![IDEF0-диаграмма (блоки A1, A2, A3)](https://user-images.githubusercontent.com/55622789/66958208-5ab00800-f070-11e9-8144-bcbd9451bf55.PNG)
+
+Описание участников автоматизируемой деятельности
+
+
+![преценденты](https://user-images.githubusercontent.com/55622789/66961849-41ab5500-f078-11e9-8c3c-963ab4fdd4e7.PNG)
+
