@@ -31,3 +31,7 @@
 
 ![преценденты](https://user-images.githubusercontent.com/55622789/66961849-41ab5500-f078-11e9-8c3c-963ab4fdd4e7.PNG)
 
+
+
+![DFD](https://user-images.githubusercontent.com/55622789/67549374-bf243480-f70c-11e9-8bdf-e5fd831bd2d5.PNG)
+
