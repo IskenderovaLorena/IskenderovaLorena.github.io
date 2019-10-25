@@ -31,5 +31,5 @@
 
 ![преценденты](https://user-images.githubusercontent.com/55622789/66961849-41ab5500-f078-11e9-8c3c-963ab4fdd4e7.PNG)
 
-
+DFD-диаграмма:
 ![DFD](https://user-images.githubusercontent.com/55622789/67549836-d31c6600-f70d-11e9-9542-68b97992879c.PNG)
