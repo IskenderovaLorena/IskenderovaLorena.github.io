@@ -35,3 +35,5 @@
 
 DFD-диаграмма:![ппппп](https://user-images.githubusercontent.com/55622789/68123570-721b3c00-ff1e-11e9-874c-c068fda161b8.PNG)
 Диаграмма последовательности:
+![loooooooooo](https://user-images.githubusercontent.com/55622789/68123678-b1e22380-ff1e-11e9-8982-d2fcc082af67.jpg)
+
