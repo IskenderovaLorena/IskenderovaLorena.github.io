@@ -24,7 +24,8 @@
 
 
 * IDEF0-диаграмма (блоки A1, A2, A3)
-![IDEF0-диаграмма (блоки A1, A2, A3)](https://user-images.githubusercontent.com/55622789/66958208-5ab00800-f070-11e9-8144-bcbd9451bf55.PNG)
+![DDDD](https://user-images.githubusercontent.com/55622789/68120654-f669c100-ff16-11e9-9dfb-f5b6bfe281f2.PNG)
+
 
 Описание участников автоматизируемой деятельности
 
