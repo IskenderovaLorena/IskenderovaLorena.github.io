@@ -40,5 +40,6 @@ DFD-диаграмма:![ппппп](https://user-images.githubusercontent.com/5
 Диаграмма последовательности:
 ![loooooooooo](https://user-images.githubusercontent.com/55622789/68123678-b1e22380-ff1e-11e9-8982-d2fcc082af67.jpg)
 
-схема данных:
+##схема данных:
+
 ![qq](https://user-images.githubusercontent.com/55622789/68124515-a5f76100-ff20-11e9-828d-bbd2c21db080.PNG)
