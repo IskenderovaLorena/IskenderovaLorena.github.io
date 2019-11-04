@@ -4,7 +4,8 @@
 
 * Создание IDEF0-диаграмм в RAMUS:
 
-![](https://raw.githubusercontent.com/IskenderovaLorena/welcome-to-github/master/%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80%D1%80.png)
+![DDDD](https://user-images.githubusercontent.com/55622789/68120759-39c42f80-ff17-11e9-8432-bbb4f7f05403.PNG)
+
 
 * Текст и рисунок диаграммы классов
 
