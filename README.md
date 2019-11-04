@@ -33,6 +33,10 @@
 
 ![преценденты](https://user-images.githubusercontent.com/55622789/66961849-41ab5500-f078-11e9-8c3c-963ab4fdd4e7.PNG)
 
+схема данных:
+![qq](https://user-images.githubusercontent.com/55622789/68124515-a5f76100-ff20-11e9-828d-bbd2c21db080.PNG)
+
+
 DFD-диаграмма:![ппппп](https://user-images.githubusercontent.com/55622789/68123570-721b3c00-ff1e-11e9-874c-c068fda161b8.PNG)
 Диаграмма последовательности:
 ![loooooooooo](https://user-images.githubusercontent.com/55622789/68123678-b1e22380-ff1e-11e9-8982-d2fcc082af67.jpg)
