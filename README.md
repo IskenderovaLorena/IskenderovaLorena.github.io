@@ -20,7 +20,8 @@
 
 Лабораторная 2
 * IDEF0-диаграмма (блок А0):
-![model](https://user-images.githubusercontent.com/55622789/66961689-e37e7200-f077-11e9-8260-236d7dafce96.PNG)
+![21](https://user-images.githubusercontent.com/55622789/68453865-d7657a80-0207-11ea-89b3-0066a697d7e5.PNG)
+
 
 
 
