@@ -40,6 +40,8 @@
 DFD-диаграмма:![ппппп](https://user-images.githubusercontent.com/55622789/68123570-721b3c00-ff1e-11e9-874c-c068fda161b8.PNG)
 Диаграмма последовательности:
 ![loooooooooo](https://user-images.githubusercontent.com/55622789/68123678-b1e22380-ff1e-11e9-8982-d2fcc082af67.jpg)
+![ввв](https://user-images.githubusercontent.com/55622789/68459765-48605e80-0217-11ea-9d8f-89187066f8ca.png)
+
 
 #### [IDEF0 Контекстная](https://github.com/IskenderovaLorena.github.io/blob/master/idf0.PNG)
 #### Тема курсовой работы "Разработка автоматизированной системы управления магазином одежды"
