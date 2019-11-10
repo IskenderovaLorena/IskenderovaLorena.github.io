@@ -48,3 +48,4 @@ DFD-диаграмма:![ппппп](https://user-images.githubusercontent.com/5
 * Функциональная модель разрабатывается с точки зрения разработчика системы.
 * Цель моделирования - Автоматизированная система управления магазином одежды
 #### [IDEF0 Контекстная](https://github.com/IskenderovaLorena/IskenderovaLorena.github.io/blob/master/%D0%900.PNG)
+####  [IDEF0 уровня A0 c 4 блоками](https://github.com/IskenderovaLorena/IskenderovaLorena.github.io/blob/master/IDEF0%20%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%20%D0%900%20%D1%81%204%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0%D0%BC%D0%B8.PNG)
