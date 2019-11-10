@@ -43,10 +43,8 @@ DFD-диаграмма:![ппппп](https://user-images.githubusercontent.com/5
 ![ввв](https://user-images.githubusercontent.com/55622789/68459765-48605e80-0217-11ea-9d8f-89187066f8ca.png)
 
 
-#### [IDEF0 Контекстная](https://github.com/IskenderovaLorena/IskenderovaLorena.github.io/blob/master/%D0%900.PNG)
+
 #### Тема курсовой работы "Разработка автоматизированной системы управления магазином одежды"
 * Функциональная модель разрабатывается с точки зрения разработчика системы.
 * Цель моделирования - Автоматизированная система управления магазином одежды
-* IDEF0 Контекстная:
-![Снимок](https://user-images.githubusercontent.com/55622789/68457431-54e1b880-0211-11ea-9155-a0e9b54d8eaf.PNG)
-
+#### [IDEF0 Контекстная](https://github.com/IskenderovaLorena/IskenderovaLorena.github.io/blob/master/%D0%900.PNG)
