@@ -3,6 +3,7 @@
 Лабораторная работа 1
 
 * Создание IDEF0-диаграмм в RAMUS:
+#### [Модель](https://github.com/IskenderovaLorena/IskenderovaLorena.github.io/blob/master/IDEF0.png)
 
 ![DDDD](https://user-images.githubusercontent.com/55622789/68120759-39c42f80-ff17-11e9-8432-bbb4f7f05403.PNG)
 
